@@ -9,3 +9,4 @@ This Repo Represents SegReConcat Data Augmentation
 - split_and_rearrange_timestamp_whisper.py -> Another variation of SegRe part where rearrangement is done using Whisper encoder similarity. Note that it doesn't concanate, you need to use concat_audio.py to concanate separately.
 - concat_audio.py -> It takes two or more wav folder paths of where wav needs to be concanated and another folder path to output the audio. It assumes that both wav folder path container wav file using same name.
 
+#### Please note that python file comments are written using Local AI.
