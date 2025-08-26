@@ -42,6 +42,7 @@ by Ridwan Arefeen, Xiaoxiao Miao, Rong Tong, Aik Beng, Simon See
 
 
 ## License
+MIT License
 
 ## Acknowledgements
 This work is supported by Ministry of Education, Singapore, under its Academic Research Tier 1 (R-R13-A405-0005). Xiaoxiao Miao is the corresponding author and this work was conducted while she was at SIT. 
