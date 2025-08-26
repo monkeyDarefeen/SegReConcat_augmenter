@@ -346,12 +346,12 @@ def process_all_files(input_folder, output_folder, timestamp_csv):
 
 if __name__ == "__main__":
     #Example of testing on B3
-    list_ori = [
+    input_folder = [
         "/app/datasets/vpc/B3/data/train-clean-360/wav"
     ]
-    list_re = [
+    output_folder = [
         "/app/datasets/vpc/B3/data/train-clean-360/wav_re"
     ]
     csv_file = ["/app/datasets/vpc/T8-5/data/train-clean-360/word_timestamps.csv"]
     for i in range(len(list_ori)):
-        process_all_files(list_ori[i], list_re[i],csv_file[i])
+        process_all_files(input_folder[i], output_folder[i],csv_file[i])
